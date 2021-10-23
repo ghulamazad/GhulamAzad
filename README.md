@@ -9,8 +9,9 @@ I am a Software developer. Few techs that I enjoy working in is Python, Django, 
 - 👍 Looking for opportunities to join as a full time in Software Developer.
 - 👨 Know more about me, - 🌐 Visit my [Portfolio website](http://mdghulamazadansari.github.io/) for complete background and contact.
 
-<details>
-<summary>🤝 <b>To connect with me</b></summary>
+
+
+### 🤝 <b>To connect with me</b>
 
 <p align = "center">
 
@@ -21,8 +22,6 @@ I am a Software developer. Few techs that I enjoy working in is Python, Django, 
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Md.GhulamAzadAnsari)
 
 </p>
-
-</details>
 
 <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
