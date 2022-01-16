@@ -28,7 +28,7 @@ I am a Software developer. Few techs that I enjoy working in is Python, Django, 
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MdGhulamAzadAnsari&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdGhulamAzadAnsari&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=GhulamAzad&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamAzad&theme=tokyonight">
 </p>
 </details>
