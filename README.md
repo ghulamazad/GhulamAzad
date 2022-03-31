@@ -1,10 +1,10 @@
-[<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.GHULAM%20AZAD%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://mdghulamazadansari.github.io) 
+[<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.GHULAM%20AZAD%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://ghulamazad.github.io) 
 
 
 
-I am a Software developer. Few techs that I enjoy working in is Python, Django, JavaScript. I am actively looking for opportunities in Software Developer.
+I am a Software developer. Few techs that I enjoy working in is Python, FastAPI, JavaScript. I am actively looking for opportunities in Software Developer.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in Python/Django, competitive coding, data structures and algorithms.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Python/FastAPI, competitive coding, data structures and algorithms.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as a full time in Software Developer.
 - 👨 Know more about me, - 🌐 Visit my [Portfolio website](http://ghulamazad.github.io/) for complete background and contact.
