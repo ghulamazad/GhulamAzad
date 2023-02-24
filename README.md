@@ -2,9 +2,9 @@
 
 
 
-I am a Software Engineer. Few techs that I enjoy working in is Python, FastAPI, JavaScript.
+<strong>I am a Software Engineer with expertise in JavaScript, NodeJS, ExpressJS, and Java.</strong>
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in NodeJS/ExpressJS, competitive coding, data structures and algorithms.
+- 👨🏽‍💻 Currently, I am focused on learning and improving my skills in NodeJS/ExpressJS, competitive coding, and data structures and algorithms.
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me, - 🌐 Visit my [Portfolio website](http://ghulamazad.github.io/) for complete background and contact.
 
