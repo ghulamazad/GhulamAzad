@@ -2,11 +2,10 @@
 
 
 
-I am a Software developer. Few techs that I enjoy working in is Python, FastAPI, JavaScript. I am actively looking for opportunities in Software Developer.
+I am a Software Engineer. Few techs that I enjoy working in is Python, FastAPI, JavaScript.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in Python/FastAPI, competitive coding, data structures and algorithms.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in NodeJS/ExpressJS, competitive coding, data structures and algorithms.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as a full time in Software Developer.
 - 👨 Know more about me, - 🌐 Visit my [Portfolio website](http://ghulamazad.github.io/) for complete background and contact.
 
 
