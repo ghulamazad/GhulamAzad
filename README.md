@@ -4,7 +4,7 @@
 
 <strong>I am a Software Engineer with expertise in JavaScript, NodeJS, ExpressJS, and Java.</strong>
 
-- 👨🏽‍💻 Currently, I am focused on learning and improving my skills in NodeJS/ExpressJS, competitive coding, and data structures and algorithms.
+- 👨🏽‍💻 Currently, I am focused on learning and improving my skills in Go lang, competitive coding, and data structures and algorithms.
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me, - 🌐 Visit my [Portfolio website](http://ghulamazad.github.io/) for complete background and contact.
 
