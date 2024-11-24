@@ -22,11 +22,9 @@
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/Docker.svg" width="36" height="36" alt="Go" />
 </a>
-
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/Java.svg" width="36" height="36" alt="Java" />
 </a>
-
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/spring.svg" width="36" height="36" alt="Spring Boot" />
 </a>
