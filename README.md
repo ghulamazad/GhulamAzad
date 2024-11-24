@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/Git.svg" width="36" height="36" alt="Git" />
+    <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/git.svg" width="36" height="36" alt="Git" />
 </a>
 
 <a href="https://neovim.io/" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/Vim.svg" width="36" height="36" alt="Vim" />
+    <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/vim.svg" width="36" height="36" alt="Vim" />
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/fastapi-colored.svg" width="36" height="36" alt="Fast API" />
+  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/fastapi.svg" width="36" height="36" alt="Fast API" />
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -96,15 +96,15 @@
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/docker-colored.svg" width="36" height="36" alt="Docker" />
+  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/docker.svg" width="36" height="36" alt="Docker" />
 </a>
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/linux.svg" width="36" height="36" alt="Linux" />
 </a>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+  <img src="https://github.com/ghulamazad/GhulamAzad/blob/master/assets/aws.svg" width="36" height="36" alt="Amazon Web Services" />
 </a>
 
 </p>
