@@ -1,4 +1,4 @@
-[<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.GHULAM%20AZAD%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://ghulamazad.github.io)
+[<img src="https://awesome-svg.vercel.app/card/card_2?name=MUHAMMAD%20GHULAM%20AZAD%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://ghulamazad.github.io)
 
 <strong>I am a Software Engineer with expertise in JavaScript, NodeJS, ExpressJS, and Java.</strong>
 
