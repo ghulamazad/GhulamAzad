@@ -28,3 +28,5 @@
 <b>My GitHub Stats</b>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=ghulamazad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="ghulamazad's GitHub stats" />](https://www.github.com/ghulamazad)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ghulamazad?ext=heatmap)
