@@ -1,6 +1,6 @@
 [<img src="https://awesome-svg.vercel.app/card/card_2?name=MUHAMMAD%20GHULAM%20AZAD%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://ghulamazad.github.io)
 
-<strong>I am a Software Engineer with expertise in JavaScript, NodeJS, ExpressJS, and Java.</strong>
+<strong>I am a Software Engineer with expertise in Golang, Java,JavaScript, NodeJS, and ExpressJS.</strong>
 
 - 👨🏽‍💻 Currently, I am focused on learning and improving my skills in Go lang and AWS, competitive coding, and data structures and algorithms.
 - 😊 Willing to contribute in opensource development projects.
